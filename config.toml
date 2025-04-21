@@ -1,0 +1,48 @@
+main.name = "mossagotchi!"
+main.lang = "en"
+main.whitelist = [
+  
+]
+
+ui.display.enabled = true
+ui.display.type = "waveshare_3" 
+ui.display.color = "black"
+ui.fps = 1
+
+main.plugins.memtemp-plus.enabled = true
+main.plugins.memtemp-plus.scale = "fahrenheit"
+main.plugins.memtemp-plus.orientation = "vertical"
+main.plugins.memtemp-plus.fields = "mem,cpu,temp"
+main.plugins.memtemp-plus.position = "200,70"
+main.plugins.memtemp-plus.linespacing = 12 
+
+
+[ui.faces]
+look_r = "( ⚆_⚆)"
+look_l = "(☉_☉ )"
+look_r_happy = "( ◕‿◕)"
+look_l_happy = "(◕‿◕ )"
+sleep = "(-‿‿-)"
+sleep2 = "(≖‿‿-)"
+awake = "(◕‿‿◕)"
+bored = "(:P)"
+intense = "(0▃▃0)"
+cool = "(⌐■_■)"
+happy = "(•w•)"
+excited = "(^w^)"
+grateful = "(^W^)"
+motivated = "(☼‿‿☼)"
+demotivated = "(≖__≖)"
+smart = "(✜‿‿✜)"
+lonely = "(Y__Y)"
+sad = "(╥☁╥ )"
+angry = "(>:C)"
+friend = "(♥‿‿♥)"
+broken = "(XmX)"
+debug = "(#__#)"
+upload = "(1__0)"
+upload1 = "(1__1)"
+upload2 = "(0__1)"
+png = false
+position_x = 0
+position_y = 34
